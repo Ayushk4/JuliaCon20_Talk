@@ -39,9 +39,9 @@ Overall the attendees will gain working knowledge about how to apply the package
 Please abide the [Julia Community Standards and Code of Conduct](https://julialang.org/community/standards/), for all the communications and contributions.
 
 - For Julia's NLP package or Flux for NLP related queries or suggestions, ask on [julia slack](https://slackinvite.julialang.org/) in the `#natural-language` channel or raise an issue on the specific packages. Please tag me in the query, so that I get a notification.
-- For all queries such as Julia language specific questions and issues, please ask on [discourse](https://discourse.julialang.org/) or [julia slack](https://slackinvite.julialang.org/).
+- For all other queries such as Julia language related questions or issues with other packages, please ask on [discourse](https://discourse.julialang.org/) or [julia slack](https://slackinvite.julialang.org/).
 
-Please contact on public platforms mentioned above (discourse, GitHub-issues, Slack) so that others with similar queries or suggestions can also benefit. If necessary, then you may contact me by mail with your queries, but the response may be slower.
+Please contact on public platforms mentioned above (discourse, GitHub-issues, Slack) so that others with similar queries or suggestions can also benefit. If absolutely necessary, then you may contact me by mail with your queries, but the response may be slower this way.
 
 # License
 
